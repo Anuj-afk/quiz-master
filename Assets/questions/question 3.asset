@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: question 3
   m_EditorClassIdentifier: 
   question: Where would you be if you were standing on the Spanish Steps?
+  answers:
+  - Rome
+  - Spain
+  - Italy
+  - Russia
+  IndexAns: 0

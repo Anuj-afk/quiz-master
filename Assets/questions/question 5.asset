@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: question 5
   m_EditorClassIdentifier: 
   question: What disease commonly spread on pirate ships?
+  answers:
+  - polio
+  - corona
+  - cold
+  - scurvy
+  IndexAns: 3

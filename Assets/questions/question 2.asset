@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: question 2
   m_EditorClassIdentifier: 
   question: What country has the highest life expectancy?
+  answers:
+  - Australia
+  - Hong Kong
+  - Japan
+  - Korea
+  IndexAns: 1
