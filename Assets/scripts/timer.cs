@@ -1,3 +1,4 @@
+using JetBrains.Annotations;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -45,6 +46,11 @@ public class timer : MonoBehaviour
             }
             
         }
+   
         Debug.Log(Isansweringquestion + ":" + timerValue + "=" + fillFraction);
+    }
+    public void cancelTimer()
+    {
+        timerValue = 0;
     }
 }
